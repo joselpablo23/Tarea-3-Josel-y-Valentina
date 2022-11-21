@@ -1,4 +1,5 @@
 # Tarea-3-Josel-y-Valentina
+En la tarea 3 se realizaron tres salidas. Las cuales son un una tabla interactiva, un gráfico interactivo y un mapa interactivo. Para realizar las salidad se procesó la data y se utilizaron fuentes desde el SNIT, Global Biodiversity Information Facility y WorldClim
 
 # Objetivo
 El presente repositorio contiene los disntintos procedimientos que se requieren para obtener una adecuada georreferenciación de bases de datos y la elaboración de mapas y tablas dinámicas e interaactivas.
@@ -12,6 +13,8 @@ El objetivo de la tarea 3 es aplicar los conocimientos de los contenidos corresp
 3.  Publicar resultados en la Web, junto con el código y los datos que los generan.
 
 Se analizaran un dataset de avistamiento de felinos descargado de la base de datos de Global Biodiversity Information Facility, s edescaragarán capas desde el SNIT y de WorldClim. Se crearán tablas por medio de consultas en R, se generarán mapas y gráficos.
+
+
 
 # Fuente de datos
 
